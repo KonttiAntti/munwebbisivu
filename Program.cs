@@ -7,6 +7,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
+# tämä kommentti on tehty GitHubissa
+
 namespace munwebbisivu
 {
     public class Program
